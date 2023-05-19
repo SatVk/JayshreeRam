@@ -1,0 +1,73 @@
+body{
+    background-image: url("./images/jay_shreeram.jpg");
+    background-attachment: fixed;
+    color: seagreen;
+    background-color: #eb4747;
+        
+   
+
+    
+    
+      
+}
+
+ h1{
+    color: coral;
+
+ }
+
+.ep1{
+    border: 10px solid rgb(0, 0, 0);
+   position:fixed;
+    top: 20%;
+    left: 20%;
+ 
+    
+
+ }
+ .ep2{
+   border: 10px solid rgb(0, 0, 0);
+  position:fixed;
+   top: 50%;
+   left: 20%;
+
+   
+
+}
+.ep1{
+   border: 10px solid rgb(0, 0, 0);
+  position:fixed;
+   top: 20%;
+   left: 20%;
+
+   
+
+}
+ button:hover{
+background-color: #00ff37;
+
+}
+
+
+/* home page */
+
+.home{
+   background-image: url("./images/Ramyan.jpg");
+   color: rgb(135, 215, 222);
+  background-size: cover;
+   top: 20px;
+   left: 30px;
+   background-attachment: fixed;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+   text-align: center;
+
+}
+
+.summary{
+   display: inline-block;
+   color: gold;
+   font: bold;
+   width: 500px;
+   height: 500px;
+}
+
